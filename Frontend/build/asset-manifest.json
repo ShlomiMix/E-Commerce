@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93138065.css",
+    "main.js": "/static/js/main.499841eb.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/JMH Typewriter-Black.otf": "/static/media/JMH Typewriter-Black.fa498f87609960b6e832.otf",
+    "static/media/Bubble Love Demo.otf": "/static/media/Bubble Love Demo.646db70c49d52cb3633f.otf",
+    "static/media/best-mens-clothing-brands.jpg": "/static/media/best-mens-clothing-brands.92ba3b85fe3fd3793518.jpg",
+    "static/media/Freshman.ttf": "/static/media/Freshman.5803b057e077e9b56637.ttf",
+    "static/media/_5578901.png": "/static/media/_5578901.2c8cdf9cbdebcb619ec6.png",
+    "static/media/letter_13639853.png": "/static/media/letter_13639853.4010b9b8bc2a63f03681.png",
+    "index.html": "/index.html",
+    "main.93138065.css.map": "/static/css/main.93138065.css.map",
+    "main.499841eb.js.map": "/static/js/main.499841eb.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93138065.css",
+    "static/js/main.499841eb.js"
+  ]
+}
